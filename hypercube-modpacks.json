@@ -4,5 +4,11 @@
     "client_version": "1.18.2-40.2.9",
     "repository_url": "https://github.com/ivxvm/hypercube-arcane-engineering-client-files.git",
     "directory_path": "~/hypercube-arcane-engineering"
+  },
+  "cave-adventures": {
+    "title": "Печерні пригоди",
+    "client_version": "1.20.1-47.2.0",
+    "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
+    "directory_path": "~/hypercube-cave-adventures"
   }
 }
