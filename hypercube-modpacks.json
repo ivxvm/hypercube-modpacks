@@ -1,16 +1,16 @@
 {
-  "arcane-engineering": {
+  "arcane_engineering": {
     "title": "Арканна інженерія",
     "client_version": "1.18.2-40.2.9",
     "repository_url": "https://github.com/ivxvm/hypercube-arcane-engineering-client-files.git",
-    "directory_path": "~/hypercube-arcane-engineering",
+    "directory_name": "hypercube-arcane-engineering",
     "description": "Модпак \"Create: Arcane Engineering\" побудовано навколо революційного моду \"Create\", популяризувавшого альтернативні механіки для рухливих механізмів, автоматизації і логістики. В цьому випадку, механіки кріейту тісно переплетені з механіками чаклунських модів типу \"Ars Nouveau\", результатом чого є вибуховий магітек геймплей. Це той самий випадок, коли ціле - більше ніж сума складових: тут і багаточептерна прогресія з гейтінгом, і кастомні рецепти та інтеграції - експірієнс якого неможливо досягти просто накидавши моди зі списку в тецю. "
   },
-  "cave-adventures": {
+  "cave_adventures": {
     "title": "Печерні пригоди",
     "client_version": "1.20.1-47.2.0",
     "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
-    "directory_path": "~/hypercube-cave-adventures",
+    "directory_name": "hypercube-cave-adventures",
     "description": "Більший ніж ваніла+, але менший ніж монструозні рпг та техно збірки, цей власноруч скомпільований нами модпак пропонує класичний геймплей, доповнений, з пригодницької сторони, модами \"Alex's Caves\" і \"Alex's Mobs\", а з технологічної сторони, модом \"Create\" і аддонами до нього. Наостанок приправлений \"Farmer's Delight\" і невеличкими Quality-of-Life модами, такими як \"Supplementaries\", \"Sophisticated Backpacks\", та іншими. "
   }
 }
