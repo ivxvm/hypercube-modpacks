@@ -12,5 +12,13 @@
     "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
     "directory_name": "hypercube-cave-adventures",
     "description": "Більший ніж ваніла+, але менший ніж монструозні рпг та техно збірки, цей власноруч скомпільований нами модпак пропонує класичний геймплей, доповнений, з пригодницької сторони, модами \"Alex's Caves\" і \"Alex's Mobs\", а з технологічної сторони, модом \"Create\" і аддонами до нього. Наостанок приправлений \"Farmer's Delight\" і невеличкими Quality-of-Life модами, такими як \"Supplementaries\", \"Sophisticated Backpacks\", та іншими. "
+  },
+  "test_hidden": {
+    "title": "Прихований модпак",
+    "client_version": "1.20.1-47.2.0",
+    "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
+    "directory_name": "hypercube-hidden",
+    "description": "Hidden",
+    "hidden": true
   }
 }
