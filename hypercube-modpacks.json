@@ -1,79 +1,167 @@
 {
   "arcane_engineering": {
-    "title": "Арканна інженерія",
+    "title": {
+      "ua": "Арканна інженерія",
+      "en": "Arcane engineering"
+    },
     "client_version": "1.18.2-40.2.9",
     "repository_url": "https://github.com/ivxvm/hypercube-arcane-engineering-client-files.git",
     "directory_name": "hypercube-arcane-engineering",
-    "description": "Модпак \"Create: Arcane Engineering\" побудовано навколо революційного моду \"Create\", популяризувавшого альтернативні механіки для рухливих механізмів, автоматизації і логістики. В цьому випадку, механіки кріейту тісно переплетені з механіками чаклунських модів типу \"Ars Nouveau\", результатом чого є вибуховий магітек геймплей. Це той самий випадок, коли ціле - більше ніж сума складових: тут і багаточептерна прогресія з гейтінгом, і кастомні рецепти та інтеграції - експірієнс якого неможливо досягти просто накидавши моди зі списку в тецю.",
-    "news": [
-      [
-        "11 травня 2024",
-        "Прибрано модель Стіва із головного меню"
+    "description": {
+      "ua": "Модпак \"Create: Arcane Engineering\" побудовано навколо революційного моду \"Create\", популяризувавшого альтернативні механіки для рухливих механізмів, автоматизації і логістики. В цьому випадку, механіки кріейту тісно переплетені з механіками чаклунських модів типу \"Ars Nouveau\", результатом чого є вибуховий магітек геймплей. Це той самий випадок, коли ціле - більше ніж сума складових: тут і багаточептерна прогресія з гейтінгом, і кастомні рецепти та інтеграції - експірієнс якого неможливо досягти просто накидавши моди зі списку в тецю.",
+      "en": "\"Create: Arcane Engineering\" is built around the revolutionary \"Create\" mod, which popularized alternative mechanics for mobile mechanisms, automation, and logistics. In this case, Create's mechanics are closely intertwined with the mechanics of magic-themed mods like \"Ars Nouveau\", resulting in explosive magitech gameplay. In this case the whole is more than the sum of its parts: pack includes multi-chapter progression with gating, custom recipes, and integrations — experience that cannot be achieved simply by adding mods from a list to a directory."
+    },
+    "news": {
+      "ua": [
+        [
+          "11 травня 2024",
+          "Прибрано модель Стіва із головного меню"
+        ],
+        [
+          "9 травня 2024",
+          "Додано мод OfflineSkins"
+        ],
+        [
+          "10 березня 2024",
+          "Реалм стартував"
+        ]
       ],
-      [
-        "9 травня 2024",
-        "Додано мод OfflineSkins"
-      ],
-      [
-        "10 березня 2024",
-        "Реалм стартував"
+      "en": [
+        [
+          "11 May 2024",
+          "Remove Steve model from main menu"
+        ],
+        [
+          "9 May 2024",
+          "Added OfflineSkins"
+        ],
+        [
+          "10 March 2024",
+          "Realm launched"
+        ]
       ]
-    ],
-    "notes": [
-      "Якщо в мультіплеєрі не працює кастомний скін, не вимикаючи гру зайдіть в будь-який сінглплеєр світ, а потім назад в мультіплеєр."
-    ]
+    },
+    "notes": {
+      "ua": [
+        "Якщо в мультіплеєрі не працює кастомний скін, не вимикаючи гру зайдіть в будь-який сінглплеєр світ, а потім назад в мультіплеєр."
+      ],
+      "en": [
+        "If custom skins are not working in multiplayer, without quitting the game, enter any single-player world and then return to multiplayer."
+      ]
+    }
   },
   "elven_kiss": {
-    "title": "Ельфійський поцілунок",
+    "title": {
+      "ua": "Ельфійський поцілунок",
+      "en": "Elven kiss"
+    },
     "client_version": "1.16.5-36.2.42",
     "repository_url": "https://github.com/ivxvm/hypercube-elven-kiss-client-files.git",
     "directory_name": "hypercube-elven-kiss",
-    "description": "Друга редакція модпаку \"Roguelike Adventures and Dungeons\" є найамбіційнішим і наймасштабнішим проектом в сфері рпг-модпаків:\n> більше півтори тисячі квестів, сотні нових біомів, структур і данжів\n> нові моби, боси, бойові механіки, механіки прокачки\n> величезний арсенал нових айтемів, енчантів, ефектів",
-    "news": [
-      [
-        "11 травня 2024",
-        "Додано OfflineSkins",
-        "Прибрано AuthMod",
-        "Оновлено Forge до 36.2.42"
+    "description": {
+      "ua": "Друга редакція модпаку \"Roguelike Adventures and Dungeons\" є найамбіційнішим і наймасштабнішим проектом в сфері рпг-модпаків:\n> більше півтори тисячі квестів, сотні нових біомів, структур і данжів\n> нові моби, боси, бойові механіки, механіки прокачки\n> величезний арсенал нових айтемів, енчантів, ефектів",
+      "en": "The second edition of the \"Roguelike Adventures and Dungeons\" modpack is the most ambitious and extensive project in the RPG modpack sphere:\n> Over one and a half thousand quests, hundreds of new biomes, structures, and dungeons.\n> New mobs, bosses, combat mechanics, leveling mechanics.\n> A massive arsenal of new items, enchantments, and effects."
+    },
+    "news": {
+      "ua": [
+        [
+          "11 травня 2024",
+          "Додано OfflineSkins",
+          "Прибрано AuthMod",
+          "Оновлено Forge до 36.2.42"
+        ],
+        [
+          "4 липня 2023",
+          "Реалм стартував"
+        ]
       ],
-      [
-        "4 липня 2023",
-        "Реалм стартував"
+      "en": [
+        [
+          "11 May 2024",
+          "Added OfflineSkins",
+          "Removed AuthMod",
+          "Updated Forge до 36.2.42"
+        ],
+        [
+          "4 July 2023",
+          "Realm launched"
+        ]
       ]
-    ],
-    "notes": [
-      "Модпак потребує чимало оперативки, рекомендована верхня межа від 8гб."
-    ]
+    },
+    "notes": {
+      "ua": [
+        "Модпак потребує чимало оперативки, рекомендована верхня межа від 8гб."
+      ],
+      "en": [
+        "Modpack requires considerable amount of RAM, with a recommended upper limit of 8GB or more."
+      ]
+    }
   },
   "cave_adventures": {
-    "title": "Печерні пригоди",
+    "title": {
+      "ua": "Печерні пригоди",
+      "en": "Cave adventures"
+    },
     "client_version": "1.20.1-47.2.0",
     "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
     "directory_name": "hypercube-cave-adventures",
-    "description": "Більший ніж ваніла+, але менший ніж монструозні рпг та техно збірки, цей власноруч скомпільований нами модпак пропонує класичний геймплей, доповнений, з пригодницької сторони, модами \"Alex's Caves\" і \"Alex's Mobs\", а з технологічної сторони, модом \"Create\" і аддонами до нього. Наостанок приправлений \"Farmer's Delight\" і невеличкими Quality-of-Life модами, такими як \"Supplementaries\", \"Sophisticated Backpacks\", та іншими. ",
-    "news": [
-      [
-        "11 травня 2024",
-        "Додано OfflineSkins",
-        "Прибрано AuthMe"
+    "description": {
+      "ua": "Більший ніж ваніла+, але менший ніж монструозні рпг та техно збірки, цей власноруч скомпільований нами модпак пропонує класичний геймплей, доповнений, з пригодницької сторони, модами \"Alex's Caves\" і \"Alex's Mobs\", а з технологічної сторони, модом \"Create\" і аддонами до нього. Наостанок приправлений \"Farmer's Delight\" і невеличкими Quality-of-Life модами, такими як \"Supplementaries\", \"Sophisticated Backpacks\", та іншими.",
+      "en": "Larger than vanilla+ but smaller than monstrous RPG and tech packs, this custom compiled modpack offers classic gameplay enhanced with adventure-focused mods like \"Alex's Caves\" and \"Alex's Mobs,\" and technological mods with focus on \"Create\" and its addons. It's topped off with \"Farmer's Delight\" and small Quality-of-Life mods like \"Supplementaries\", \"Sophisticated Backpacks\", and others."
+    },
+    "news": {
+      "ua": [
+        [
+          "11 травня 2024",
+          "Додано OfflineSkins",
+          "Прибрано AuthMe"
+        ],
+        [
+          "19 жовтня 2023",
+          "Реалм стартував"
+        ]
       ],
-      [
-        "19 жовтня 2023",
-        "Реалм стартував"
+      "en": [
+        [
+          "11 May 2024",
+          "Added OfflineSkins",
+          "Removed AuthMe"
+        ],
+        [
+          "19 October 2023",
+          "Realm launched"
+        ]
       ]
-    ],
-    "notes": [
-      "Планується нова, сильно перероблена, версія модпаку, скоріше за все з новим світом."
-    ]
+    },
+    "notes": {
+      "ua": [
+        "Планується нова, сильно перероблена, версія модпаку, скоріше за все з новим світом."
+      ],
+      "en": [
+        "A new, heavily reworked version of the modpack is planned, most likely with a new world."
+      ]
+    }
   },
   "test_hidden": {
-    "title": "Прихований модпак",
+    "title": {
+      "ua": "Прихований модпак",
+      "en": "Hidden modpack"
+    },
     "client_version": "1.20.1-47.2.0",
     "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
     "directory_name": "hypercube-hidden",
-    "description": "Hidden",
-    "news": [],
-    "notes": [],
+    "description": {
+      "ua": "Hidden",
+      "en": "Hidden"
+    },
+    "news": {
+      "ua": [],
+      "en": []
+    },
+    "notes": {
+      "ua": [],
+      "en": []
+    },
     "hidden": true
   }
 }
