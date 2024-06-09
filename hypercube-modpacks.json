@@ -6,6 +6,9 @@
     },
     "client_version": "1.18.2-40.2.9",
     "repository_url": "https://github.com/ivxvm/hypercube-arcane-engineering-client-files.git",
+    "maintainers": [
+      "Arvel"
+    ],
     "directory_name": "hypercube-arcane-engineering",
     "description": {
       "ua": "Модпак \"Create: Arcane Engineering\" побудовано навколо революційного моду \"Create\", популяризувавшого альтернативні механіки для рухливих механізмів, автоматизації і логістики. В цьому випадку, механіки кріейту тісно переплетені з механіками чаклунських модів типу \"Ars Nouveau\", результатом чого є вибуховий магітек геймплей. Це той самий випадок, коли ціле - більше ніж сума складових: тут і багаточептерна прогресія з гейтінгом, і кастомні рецепти та інтеграції - експірієнс якого неможливо досягти просто накидавши моди зі списку в тецю.",
@@ -57,6 +60,9 @@
     },
     "client_version": "1.16.5-36.2.42",
     "repository_url": "https://github.com/ivxvm/hypercube-elven-kiss-client-files.git",
+    "maintainers": [
+      "Arvel"
+    ],
     "directory_name": "hypercube-elven-kiss",
     "description": {
       "ua": "Друга редакція модпаку \"Roguelike Adventures and Dungeons\" є найамбіційнішим і наймасштабнішим проектом в сфері рпг-модпаків:\n> більше півтори тисячі квестів, сотні нових біомів, структур і данжів\n> нові моби, боси, бойові механіки, механіки прокачки\n> величезний арсенал нових айтемів, енчантів, ефектів",
@@ -104,6 +110,11 @@
     },
     "client_version": "1.20.1-47.2.0",
     "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
+    "maintainers": [
+      "Arvel",
+      "GirkaRyba"
+    ],
+    "hidden": true,
     "directory_name": "hypercube-cave-adventures",
     "description": {
       "ua": "Більший ніж ваніла+, але менший ніж монструозні рпг та техно збірки, цей власноруч скомпільований нами модпак пропонує класичний геймплей, доповнений, з пригодницької сторони, модами \"Alex's Caves\" і \"Alex's Mobs\", а з технологічної сторони, модом \"Create\" і аддонами до нього. Наостанок приправлений \"Farmer's Delight\" і невеличкими Quality-of-Life модами, такими як \"Supplementaries\", \"Sophisticated Backpacks\", та іншими.",
@@ -149,6 +160,10 @@
     },
     "client_version": "1.20.1-47.2.0",
     "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
+    "maintainers": [
+      "Arvel"
+    ],
+    "hidden": true,
     "directory_name": "hypercube-hidden",
     "description": {
       "ua": "Hidden",
@@ -161,7 +176,6 @@
     "notes": {
       "ua": [],
       "en": []
-    },
-    "hidden": true
+    }
   }
 }
