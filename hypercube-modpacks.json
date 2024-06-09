@@ -103,16 +103,52 @@
       ]
     }
   },
-  "cave_adventures": {
+  "cave_adventures_2": {
     "title": {
       "ua": "Печерні пригоди",
       "en": "Cave adventures"
     },
+    "client_version": "1.20.1-47.2.7",
+    "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-2-client-files.git",
+    "maintainers": [
+      "GirkaRyba",
+      "Arvel"
+    ],
+    "hidden": true,
+    "directory_name": "hypercube-cave-adventures-2",
+    "description": {
+      "ua": "Більший ніж ваніла+, але менший ніж монструозні рпг та техно збірки, цей власноруч скомпільований нами модпак пропонує класичний геймплей, доповнений, з пригодницької сторони, модами \"Alex's Caves\" і \"Alex's Mobs\", а з технологічної сторони, модом \"Create\" і аддонами до нього. Наостанок приправлений \"Farmer's Delight\" і невеличкими Quality-of-Life модами, такими як \"Supplementaries\", \"Sophisticated Backpacks\", та іншими.",
+      "en": "Larger than vanilla+ but smaller than monstrous RPG and tech packs, this custom compiled modpack offers classic gameplay enhanced with adventure-focused mods like \"Alex's Caves\" and \"Alex's Mobs,\" and technological mods with focus on \"Create\" and its addons. It's topped off with \"Farmer's Delight\" and small Quality-of-Life mods like \"Supplementaries\", \"Sophisticated Backpacks\", and others."
+    },
+    "news": {
+      "ua": [
+        [
+          "14 червня 2024",
+          "Реалм стартував"
+        ]
+      ],
+      "en": [
+        [
+          "14 June 2024",
+          "Realm launched"
+        ]
+      ]
+    },
+    "notes": {
+      "ua": [],
+      "en": []
+    }
+  },
+  "cave_adventures": {
+    "title": {
+      "ua": "Печерні пригоди 0",
+      "en": "Cave adventures 0"
+    },
     "client_version": "1.20.1-47.2.0",
     "repository_url": "https://github.com/ivxvm/hypercube-cave-adventures-client-files.git",
     "maintainers": [
-      "Arvel",
-      "GirkaRyba"
+      "GirkaRyba",
+      "Arvel"
     ],
     "hidden": true,
     "directory_name": "hypercube-cave-adventures",
