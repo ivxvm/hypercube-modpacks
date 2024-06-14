@@ -114,7 +114,7 @@
       "GirkaRyba",
       "Arvel"
     ],
-    "hidden": true,
+    "hidden": false,
     "directory_name": "hypercube-cave-adventures-2",
     "description": {
       "ua": "Більший ніж ваніла+, але менший ніж монструозні рпг та техно збірки, цей власноруч скомпільований нами модпак пропонує класичний геймплей, доповнений, з пригодницької сторони, модами \"Alex's Caves\" і \"Alex's Mobs\", а з технологічної сторони, модом \"Create\" і аддонами до нього. Наостанок приправлений \"Farmer's Delight\" і невеличкими Quality-of-Life модами, такими як \"Supplementaries\", \"Sophisticated Backpacks\", та іншими.",
