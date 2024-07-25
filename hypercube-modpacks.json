@@ -31,8 +31,12 @@
       ]
     },
     "notes": {
-      "ua": [],
-      "en": []
+      "ua": [
+        "Автор збірки: GirkaRyba"
+      ],
+      "en": [
+        "Modpack author: GirkaRyba"
+      ]
     }
   },
   "arcane_engineering": {
