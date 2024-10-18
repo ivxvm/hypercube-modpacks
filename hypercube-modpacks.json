@@ -93,6 +93,45 @@
       ]
     }
   },
+  "seaopolis": {
+    "title": {
+      "ua": "Seaopolis",
+      "en": "Seaopolis"
+    },
+    "client_version": "1.20.1-47.3.0",
+    "repository_url": "https://github.com/ivxvm/hypercube-seaopolis-client-files.git",
+    "maintainers": [
+      "Arvel"
+    ],
+    "hidden": false,
+    "directory_name": "hypercube-seaopolis",
+    "description": {
+      "ua": "Ласкаво просимо у Seaopolis, цього разу ми занурені під воду. Seaopolis Submerged — це пакет модів для виживання в океані. Представляє повністю налаштований світ, наповнений різними мобами та структурами.",
+      "en": "Welcome to seaopolis, this time we are submerged, Seaopolis Submerged is a ocean based survival questing modpack. Featuring a completly customized world filled with various different mobs and structures."
+    },
+    "news": {
+      "ua": [
+        [
+          "18 жовтня 2024",
+          "Реалм стартував"
+        ]
+      ],
+      "en": [
+        [
+          "18 October 2024",
+          "Realm launched"
+        ]
+      ]
+    },
+    "notes": {
+      "ua": [
+        "https://www.curseforge.com/minecraft/modpacks/seaopolis-submerged"
+      ],
+      "en": [
+        "https://www.curseforge.com/minecraft/modpacks/seaopolis-submerged"
+      ]
+    }
+  },
   "elven_kiss": {
     "title": {
       "ua": "Ельфійський поцілунок",
