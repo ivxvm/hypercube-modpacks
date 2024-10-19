@@ -95,7 +95,7 @@
   },
   "seaopolis": {
     "title": {
-      "ua": "Seaopolis",
+      "ua": "Морськополіс",
       "en": "Seaopolis"
     },
     "client_version": "1.20.1-47.3.0",
@@ -106,7 +106,7 @@
     "hidden": false,
     "directory_name": "hypercube-seaopolis",
     "description": {
-      "ua": "Ласкаво просимо у Seaopolis, цього разу ми занурені під воду. Seaopolis Submerged — це пакет модів для виживання в океані. Представляє повністю налаштований світ, наповнений різними мобами та структурами.",
+      "ua": "Ласкаво просимо у Морськополіс, цього разу ми занурені під воду. Морськополіс - це пакет модів для виживання в океані. Представляє повністю налаштований світ, наповнений різними мобами та структурами.",
       "en": "Welcome to seaopolis, this time we are submerged, Seaopolis Submerged is a ocean based survival questing modpack. Featuring a completly customized world filled with various different mobs and structures."
     },
     "news": {
